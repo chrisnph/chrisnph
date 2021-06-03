@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 30px ">
-<img src="https://github-readme-stats.vercel.app/api?username=chrisnph&show_icons=true&theme=algolia" alt="cat" style="width: 100%; height: auto"/>
+<img src="https://github.com/chrisnph/chrisnph/blob/main/images/cat.gif?raw=true" alt="cat" style="width: 100%; height: auto"/>
 </div>
 
 <hr style="height: 1px; background: #ffffff">
