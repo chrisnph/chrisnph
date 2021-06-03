@@ -2,6 +2,8 @@
 <img src="https://github.com/chrisnph/chrisnph/blob/main/images/cat.gif?raw=true" alt="cat" style="width: 100%; height: auto"/>
 </div>
 
+<!--
+
 <hr style="height: 1px; background: #ffffff">
 
 <div style="display: inline-flex;margin-top: 30px;justify-content: space-evenly">
@@ -20,3 +22,4 @@
 <img src="https://komarev.com/ghpvc/?username=chrisnph&color=blue&style=flat-square" align="right"/>
 </div>
 
+-->
