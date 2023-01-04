@@ -1,7 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 30px; width: 100%" width="100vw">
 
-<img src="https://github.com/chrisnph/chrisnph/blob/main/images/cat.gif?raw=true" alt="cat" height="140" style="margin-right: 10px; height: 140px; width: 30%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnph&langs_count=10&theme=algolia&layout=compact" alt="chrisnph" height="140" style="width: auto; height: 140px: width: 70%"/>
 
 </div>
