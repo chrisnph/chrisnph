@@ -1,6 +1,6 @@
 <div align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnph&langs_count=10&theme=algolia&layout=compact" alt="chrisnph" style="width: 100%; height: auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnph&langs_count=10&theme=algolia&layout=compact" alt="chrisnph" style="width: 70%; height: auto"/>
 
 </div>
 
