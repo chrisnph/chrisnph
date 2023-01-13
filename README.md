@@ -1,3 +1,3 @@
 <div align="center" />
- <img src="https://cdn.7tv.app/emote/618302fe8d50b5f26ee7b9bc/4x.webp" alt="huh"/>
+ <img src="https://media.tenor.com/7l4PXSCFjjQAAAAd/huh-cat.gif" alt="huh" height="100" width="100"/>
 </div>
